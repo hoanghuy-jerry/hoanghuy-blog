@@ -21,7 +21,7 @@ let articals = [
     {
         id: 3,
         artical_url: './life/quote-of-the-day-by-nikola-tesla.html',
-        artical_thumb: 'https://img.jagranjosh.com/images/2025/12/02/article/image/Quote-of-the-Day-by-Nikola-Tesla!-1764622324837.webp',
+        artical_thumb: './life/tesla/Quote-of-the-Day-by-Nikola-Tesla!-(1)-1764622539166.jpg',
         artical_name: 'Quote of the Day by Nikola Tesla:Let the future tel..',
         artical_category: 'Life',
         artical_date: '05/12/2025'
