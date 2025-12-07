@@ -10,7 +10,7 @@ let articals = [
         artical_category: 'Beautiful-Girl',
         artical_date: '04/12/2025'
     },
-     {
+    {
         id: 2,
         artical_url: './tech/Nokia-6500-Slide.html',
         artical_thumb: './tech/nokia_6500_slide/nokia_6500_slide.jpg',
@@ -18,13 +18,21 @@ let articals = [
         artical_category: 'Tech',
         artical_date: '04/12/2025'
     },
-     {
+    {
         id: 3,
         artical_url: './life/quote-of-the-day-by-nikola-tesla.html',
         artical_thumb: 'https://img.jagranjosh.com/images/2025/12/02/article/image/Quote-of-the-Day-by-Nikola-Tesla!-1764622324837.webp',
         artical_name: 'Quote of the Day by Nikola Tesla:Let the future tel..',
         artical_category: 'Life',
         artical_date: '05/12/2025'
+    },
+    {
+        id: 4,
+        artical_url: './life/quote-of-the-day-by-marie-curie.html',
+        artical_thumb: './life/marie-curie/marie-curie.jpg',
+        artical_name: 'Quote of the Day by Marie Curie:"Life is not easy for any of us.But we must have... ',
+        artical_category: 'Life',
+        artical_date: '07/12/2025'
     },
 ];
 
