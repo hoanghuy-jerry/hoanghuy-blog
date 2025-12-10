@@ -34,6 +34,14 @@ let articals = [
         artical_category: 'Life',
         artical_date: '07/12/2025'
     },
+    {
+        id: 5,
+        artical_url: './life/Quote-of-the-day-by-Aristotle.html',
+        artical_thumb: './life/aristotle/aristotle.jpg',
+        artical_name: 'Quote of the day by Aristotle: Whosoever is delighted in solitude is either a wild beast or a God ',
+        artical_category: 'Life',
+        artical_date: '10/12/2025'
+    },
 ];
 
 //2.Xuất dữ liệu lên html với array map
