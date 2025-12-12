@@ -42,6 +42,22 @@ let articals = [
         artical_category: 'Life',
         artical_date: '10/12/2025'
     },
+    {
+        id: 6,
+        artical_url: './one-day-one -sentence/one-day-one-sentence.html',
+        artical_thumb: './one-day-one -sentence/11_12.jpg',
+        artical_name: 'One day one sentence(English-Chinese) ',
+        artical_category: 'One day one sentence',
+        artical_date: '11/12/2025'
+    },
+     {
+        id: 7,
+        artical_url: './tet/tet.html',
+        artical_thumb: './tet/thumbnail.png',
+        artical_name: 'Tet Viet Nam.Lịch Sử Tết Nguyên Đán: Từ Truyền Thuyết Đến Hiện Tại',
+        artical_category: 'tet',
+        artical_date: '11/12/2025'
+    },
 ];
 
 //2.Xuất dữ liệu lên html với array map
