@@ -13,7 +13,7 @@ let articals = [
     },
     {
         id: 2,
-        artical_url: './tech/Nokia-6500-Slide.html',
+        artical_url: './tech/top-dien-thoai-hoai-co-hap-dan-thu-vi-va-hang-ao-uoc.html',
         artical_thumb: './tech/nokia_6500_slide/nokia_6500_slide.jpg',
         artical_name: 'Top điện thoại hoài cổ, hấp dẫn, thú vị, và hằng ao ước',
         artical_category: 'Tech',
@@ -63,6 +63,15 @@ let articals = [
         artical_name: 'Tet Viet Nam.Lịch Sử Tết Nguyên Đán: Từ Truyền Thuyết Đến Hiện Tại',
         artical_category: 'tet',
         artical_date: '11/12/2025',
+        active: 'true',
+    },
+     {
+        id: 8,
+        artical_url: './music/nhung-bai-hat-hay.html',
+        artical_thumb: './music/tone.png',
+        artical_name: 'Vì âm nhạc là một phần không thể thiếu trong quá trình trưởng thành của tôi và...',
+        artical_category: 'music',
+        artical_date: '14/12/2025',
         active: 'true',
     },
 ];
