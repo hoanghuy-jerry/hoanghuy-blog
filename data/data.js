@@ -74,6 +74,15 @@ let articals = [
         artical_date: '14/12/2025',
         active: 'true',
     },
+     {
+        id: 9,
+        artical_url: './travel-though-the-small-screen/travel-though-the-small-screen.html',
+        artical_thumb: './travel-though-the-small-screen/thumbnail.png',
+        artical_name: ' Mời ae ghé thăm qua màn hình nhỏ, để có thể chiêm ngưỡng cảnh đẹp, cuộc sống của các nơi trên thế giới',
+        artical_category: 'Travel through the small screen',
+        artical_date: '25/12/2025',
+        active: 'true',
+    },
 ];
 
 //2.Xuất dữ liệu lên html với array map
