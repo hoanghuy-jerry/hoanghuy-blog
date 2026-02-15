@@ -83,6 +83,15 @@ let articals = [
         artical_date: '25/12/2025',
         active: 'true',
     },
+    {
+        id: 10,
+        artical_url: './life/bac-ho-can-dan-dan-ta-phai-biet-su-ta.html',
+        artical_thumb: './life/marie-curie/marie-curie.jpg',
+        artical_name: 'Bác Hồ căn dặn dân ta phải biết sử ta ',
+        artical_category: 'Life',
+        artical_date: '15/2/2026',
+        active: 'true',
+    },
 ];
 
 //2.Xuất dữ liệu lên html với array map
